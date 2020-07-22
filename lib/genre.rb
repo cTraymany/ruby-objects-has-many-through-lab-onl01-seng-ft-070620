@@ -1,11 +1,11 @@
 # learn spec/03_genre_spec.rb
 require 'pry'
 class Genre
-  attr_accessor
+  attr_accessor :name
   @@all = []
   
-  def initialize
-
+  def initialize(name)
+    @name = name
   end
   
 
