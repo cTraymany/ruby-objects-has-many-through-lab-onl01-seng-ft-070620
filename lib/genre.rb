@@ -18,6 +18,6 @@ class Genre
   end
 
   def artists
-    songs.select { |song}
+    songs.select { |song| }
   end
 end
