@@ -11,7 +11,9 @@ class Doctor
     @@all
   end
 
-
+  def appointments
+    
+  end
 
 
 
