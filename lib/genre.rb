@@ -14,7 +14,7 @@ class Genre
   end
 
   def songs
-    Song
+    Song.all.select
   end
 
   def artists
