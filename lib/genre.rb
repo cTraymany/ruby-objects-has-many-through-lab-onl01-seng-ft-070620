@@ -18,6 +18,6 @@ class Genre
   end
 
   def artists
-    songs.all.select
+    songs.select
   end
 end
