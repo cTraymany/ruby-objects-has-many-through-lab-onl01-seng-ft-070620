@@ -1,4 +1,4 @@
-learn spec/0_doctor_spec.rb
+# learn spec/04_doctor_spec.rb
 class Doctor
   attr_accessor :name
   @@all = []
