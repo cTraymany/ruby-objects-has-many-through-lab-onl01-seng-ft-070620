@@ -1,7 +1,7 @@
 # learn spec/02_song_spec.rb
 require 'pry'
 class Song
-  attr_accessor :name
+  attr_accessor :name, :artist, :genre
   @@all = []
   
   def initialize(name)
