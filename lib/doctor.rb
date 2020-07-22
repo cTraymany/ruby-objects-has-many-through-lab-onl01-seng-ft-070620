@@ -1,4 +1,4 @@
-
+learn spec/06_patient_spec.rb
 class Doctor
   attr_accessor :name
   @@all = []
