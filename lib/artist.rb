@@ -22,7 +22,7 @@ class Artist
   end
   
   def genres
-    Song.all.select {||}
+    Song.all.select { |song| }
   end  
   
 end
