@@ -1,1 +1,1 @@
-# learn spec/01_artist_spec.rb
+# learn spec/03_genre_spec.rb
