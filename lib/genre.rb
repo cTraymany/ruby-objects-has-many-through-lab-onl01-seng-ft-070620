@@ -1,1 +1,13 @@
 # learn spec/03_genre_spec.rb
+require 'pry'
+class Genre
+
+
+
+
+
+
+
+
+
+
