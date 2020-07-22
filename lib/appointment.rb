@@ -1,3 +1,4 @@
+#  learn spec/05_
 def Appointment
   attr_accessor :date, :patient, :doctor  
   @@all = []
