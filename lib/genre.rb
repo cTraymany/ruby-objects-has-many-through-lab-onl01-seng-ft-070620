@@ -3,10 +3,11 @@ require 'pry'
 class Genre
   attr_accessor
   @@all = []
+  
+  def initialize
 
-
-
-
+  end
+  
 
 
 
