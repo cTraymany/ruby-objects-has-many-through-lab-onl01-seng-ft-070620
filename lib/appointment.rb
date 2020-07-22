@@ -13,7 +13,9 @@ def Appointment
     @@all
   end
   
-  
+  def patient
+    
+  end
   
   
   
