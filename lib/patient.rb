@@ -1,3 +1,4 @@
+#  learn spec/05_appointment_spec.rb
 
 class Patient
   attr_accessor :name
