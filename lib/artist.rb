@@ -1,11 +1,11 @@
 learn spec/01_artist_spec.rb
 require 'pry'
 class Artist
-  attr_accessor :name
+  attr_accessor :name, :songs
   @@all = []
   
   def initialize(name)
-    @
+    @name = name
   end
 
 
